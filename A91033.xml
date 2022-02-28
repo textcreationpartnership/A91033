@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prisoners remonstrance: or, The desires and proposals of such prisoners as are willing to pay their just debts. Also, a copy of their petition to the Lord Protector: together with his gracious answer and reference to the Councel. Also an ordinance thereupon, for the suspending the Act for relief of creditors and poor prisoners, till the 20th of this instant April. With divers other remarkable passages fit for all mens views, especially for creditors or debtors, or such who are up on their interest concerned.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91033</idno>
+            <idno type="STC">Wing P3520</idno>
+            <idno type="STC">Thomason E733_3</idno>
+            <idno type="STC">ESTC R206897</idno>
+            <idno type="EEBO-CITATION">99865991</idno>
+            <idno type="PROQUEST">99865991</idno>
+            <idno type="VID">118250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118250)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E733[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prisoners remonstrance: or, The desires and proposals of such prisoners as are willing to pay their just debts. Also, a copy of their petition to the Lord Protector: together with his gracious answer and reference to the Councel. Also an ordinance thereupon, for the suspending the Act for relief of creditors and poor prisoners, till the 20th of this instant April. With divers other remarkable passages fit for all mens views, especially for creditors or debtors, or such who are up on their interest concerned.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 12:-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  Great Britain --  Early works to 1800.</term>
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118250:1"/>
+            <pb facs="tcp:118250:1" rendition="simple:additions"/>
+            <p>THE PRISONERS REMONSTRANCE OR, The Deſires and Propoſals of ſuch Priſon<g ref="char:EOLhyphen"/>ers as are willing to pay their JUST DEBTS.</p>
+            <p>ALSO, A Copy of their Petition to the Lord Protector: Together with His Gracious Anſwer and Reference to th Councel.</p>
+            <p>Alſo an Ordinance thereupon, for the Suſpending the Act for Relief of Creditors and poor Priſoners, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi rend="sup">th</hi> of this inſtant <hi>APRIL.</hi>
+            </p>
+            <p>With divers other Remarkable Paſſages fit for all mens view, eſpecially for Creditors or Debtors, or ſuch who are up<g ref="char:EOLhyphen"/>on their intereſt concerned.</p>
+            <q>
+               <l>Perv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtit anchorae jectum Deus</l>
+               <l>Dei auxilium eſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>adv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſis praeſentiſſimum.</l>
+               <l>Impiorum Conſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tia non ſuccedunt.</l>
+            </q>
+            <q>For if it had not been the Lord who was on your ſide, when your enemies roſe up againſt you, then they had ſwallowed you up quick, and thoſe proud wa<g ref="char:EOLhyphen"/>ters had <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whelmed and gone over your ſouls.
+<bibl>
+                  <hi>Pſal. 1.9.</hi> ver. <hi>1, 2.</hi>
+               </bibl>
+            </q>
+            <p>London: Printed by R. Wood, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:118250:2"/>
+            <pb n="1" facs="tcp:118250:2"/>
+            <head>THE Deſires and Propoſals of ſuch priſoners as a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> willing to pay their juſt Debts.</head>
+            <p>THe Priſoners of this Nation conceiving them<g ref="char:EOLhyphen"/>ſelves exceedingly agrieved and concerned in an Act of the late <hi>Parliament,</hi> which made them all Bankrupts, in caſe they ſhould not pay their debts before the firſt of April inſtant, which as things ſtood with them was impoſſible for them to do, they (beſides the general want and ſcarcitie of money in theſe times) be<g ref="char:EOLhyphen"/>ing diſabled to diſpoſe of their own eſtates, by ſetting, letting or ſelling the ſame, or any part thereof, or recei<g ref="char:EOLhyphen"/>ving their juſt Debts or Rents towards paiment of their debts; and being alſo kept in priſon the while, for no other end that they can underſtand, but meerly to pre<g ref="char:EOLhyphen"/>vent and diſable them to pay their debts, to the end their creditors might have their Eſtates at their own rates. Thought it high time to preſent a <hi>Petition</hi> to His Highneſs the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Protector</hi> and His Honourable Council, which petition was preſented about the ſecond of March to M<hi rend="sup">r</hi> 
+               <hi>Liſle Long</hi> one of the Maſters of Requ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts, by Capt. <hi>Roger Pritchard,</hi> who was Agent for the priſoners, who ſeriouſly taking the ſame into conſidera<g ref="char:EOLhyphen"/>tion, promiſed faithfully to preſent the ſame to His Highneſs at the firſt audience and ſeaſonable opportunity he could obtain, which as it fell out happened not to be till the 22 of March, at which time he faithfully performed the ſame, by preſenting the ſaid petition to His Highneſs the Lord protector, which petiti<g ref="char:EOLhyphen"/>on was in theſe words.</p>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:118250:3"/>
+            <head>To His Highneſs, OLIVER Lord Pro<g ref="char:EOLhyphen"/>tector of the Common-wealth of England, Scotland, and Ireland, and His Honourable Council.</head>
+            <head type="sub">The Humble Petition of all ſuch Priſoners within this Nation, as are willing to pay their just Debts.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat your petitioners by a late Act of Parliament in that caſe made, are enjoyned to pay their Debts by the firſt of April next, elſe your p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ioners conſiſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of very many of the Nobility, K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hts and G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntry of this Natio, are to be repu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and p<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>eded aga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt as Bankrupts, from the time of their firſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and their eſtates real and perſonal to be ſold, and con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>quent<g ref="char:EOLhyphen"/>ly they and their poſterity not onely ruined, but made infamous.</p>
+            <p>That notwithſtanding they are ſo i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>joined, yet their eſtates are in veſted and certain Judges nominated in the ſaid Act, ſo that your Petitioners are rendred unable not onely to diſpoſe of their eſtates by ſetting, letting, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſel<g ref="char:EOLhyphen"/>ling of all or any part of the ſame, nor receiving their juſt debts and rents towards payment of their deb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and re<g ref="char:EOLhyphen"/>lieving their neceſſities, which by that means they are utterly diſabled to do, but are alſo kept in priſon, where they are like miſerably to periſh, unleſſe better provided for.</p>
+            <p>Now ſeeing the Lord hath raiſed you to be Protector
+<pb n="4" facs="tcp:118250:3"/>
+of theſe Nations, and for that you have ſworn to govern them according to the Laws, Statutes and Cuſtome ſee<g ref="char:EOLhyphen"/>king their peace and cauſing Juſtice to be equally admi<g ref="char:EOLhyphen"/>niſtred, we do not doubt but you will accordingly do Juſtice, and right thoſe that ſuffer wrong, relieve the oppreſſed, deliver the needy, take off the heavy bur<g ref="char:EOLhyphen"/>then, and what ever ſhall be grievous to the ſpirits of Chriſtians, or to the free born people of this Common-wealth. An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore we ſhall not fear that you will adde thereto, nor lay it more heavy, nor oppreſſe the af<g ref="char:EOLhyphen"/>flicted in the gate, by helping forward the affliction, by delivering us and the remnant of our fortunes, as a prey to the teeth of our cruel and me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ileſſe creditors, who for the moſt part are biting Uſurers and great Oppreſ<g ref="char:EOLhyphen"/>ſors, who grind our faces, eat us like bread, much leſſe ſuffer impoſſibilities to be laid upon us, and that Egyp<g ref="char:EOLhyphen"/>tian task of making brick without ſtraw, which we are conſtrained to in caſe this Act be neither abſolutely an<g ref="char:EOLhyphen"/>nulled nor regulated: But on the contrary we hope that your Highneſſe and your honourable councel, will remember thoſe in bonds, as if you were bound with them, in a chriſtian ſimpathy, fellow feeling, and compaſ<g ref="char:EOLhyphen"/>ſionate bearing one of anothers burthens, as becomes chriſtians, ſhew your ſelves mercifull as your heavenly father is mercifull, who is afflicted in all the afflictions of his people, and doing to us a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſelves in the ſame condition would be done by, having ſome compaſſion and regard to us as brethre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or at leaſt as free born Eng<g ref="char:EOLhyphen"/>liſh men who have an equal right to the ſame immuni<g ref="char:EOLhyphen"/>ties, priviledges and liberties as others have, though theſe various times and ſad events thereof, have fallen heavy upon us; which in holy <hi>Job</hi>'s ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, doth rather require pitty then cruelty, elſe the hands of wickedneſſe is ſtrengthned, iniquity is eſtabliſhed by a Law, even <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o
+<pb n="4" facs="tcp:118250:4"/>
+pluck our skins from off us, that is the remainder of our fortunes, and conſequently our livelihood, which is little loſſe then our bloud, for which inquiſition will in due time be made by the righteous judge of heaven and earth, who is higher then the higheſt, and who regardeth theſe things, and deſpiſeth not the ſighing of the priſon<g ref="char:EOLhyphen"/>ers, of which number there are not a few, who have been inſtrumental in the worſt of times for the Common-wealth, though now not regarded nor req<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed, and who knoweth but that your Highneſſe and religious Coun<g ref="char:EOLhyphen"/>cel, be come to rule the ſtern for ſuch a time &amp; purpoſe.</p>
+            <p>We therefore moſt humbly pray your Highneſſe, and your honourable Councel, by the experience you, and every of you have had of Gods goodneſſe, mercy, and deliverances in the words of the Apoſtle, that if there be any conſolation in Chriſt, any comfort of love, any fel<g ref="char:EOLhyphen"/>lowſhip of the Spirit, if any compaſſion and mercy, ſhew mercy, or at leaſt juſtice to your Petitioners in theſe particulars following.</p>
+            <p n="1">1. <hi>That in caſe the ſaid Act be thought fit to be continued, which we hope will not be, being ſo much againſt Law and the cuſtom of the Nation, as to make ſo many noble Knights and Gentlemen Bankrupts, a thing never yet done, your Petitioners may by an Act by you to be made, by way of addition, or expla<g ref="char:EOLhyphen"/>nation of the former, enjoy their liberty not onely till April now at hand, but for</hi> 6 <hi>months longer, and may have time till then to pay their debt, being the time is ſo far relapſed, and your Petitioners ſtill kept in priſon, though they Petitioned Salters-Hall for their liberty till April, ſo ſhall they not be ſurprized, and their eſtates ſold at half the value, which otherwiſe cannot be avoided to the utter ruine of them and theirs.</hi>
+            </p>
+            <p n="2">2. <hi>That your Petitioners may have the ſame relief and re<g ref="char:EOLhyphen"/>medy againſt ſuch who ow them monies, as their Creditors have againſt them, in caſe they pay not within ſix months, elſe how can your Petitioners pay their Debts?</hi>
+            </p>
+            <p n="3">
+               <pb n="5" facs="tcp:118250:4"/>3. <hi>That your Petitioners may not be ſo wholly deprived of their Eſtates, but that they may receive ſuch a pittance there out, that they and their wives and children periſh not in the mean time, and that when their eſtates be ſold, ſome regard may be had to reſerve the chief houſe, and</hi> 4th. <hi>or</hi> 5th. <hi>part of the estate for the relief of wife and children, for that was al<g ref="char:EOLhyphen"/>lowed to ſuch who were accounted Traytors.</hi>
+            </p>
+            <p n="4">4. <hi>That the Judges in the ſaid Act mentioned or ſome others may have power when they have truly ſtated all debts, to force the Creditor <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take Lands for their monies, either at</hi> 20 <hi>years purchaſe, being monies is at</hi> 6 per Centum, <hi>or at ſo many years purchaſe as is uſual in that Country, where the Lands lie, at leaſt to take ſo much by way of Mortgage where the Debtor and Truſtees, or ſuch who have intereſt in the ſame, ſhall conſent to paſſe it, as will</hi> per annum <hi>amount to the intereſt of his mo<g ref="char:EOLhyphen"/>ney for ſome time for the ſecurity, as the ſaid Judges, or other perſons to be ſo intruſted ſhall think fit and order, upon hearing both ſides. And in caſe the Debter pay not by that time, that the Creditor giving him</hi> 20 <hi>
+                  <abbr>l.</abbr> more in every</hi> 100 <hi>
+                  <abbr>l.</abbr> ſhall have a full and abſolute Eſtate for him and his heirs for ever; and that the ſaid Judges may have power to proceed as a Bankrupt againſt ſuch as ſhall refuſe to ſtand to one of theſe, in caſe you wil have it ſo; and alſo to qualifie intereſt during the War, as the Lords Commiſſioners are enabled to do.</hi>
+            </p>
+            <p n="5">5. <hi>That they may have power alſo where they find any Pri<g ref="char:EOLhyphen"/>ſoner grievouſly oppreſt or kept wrongfully in priſon, either for a preſatisfied Debt, or by Judgements ſurreptitiouſly obtained by the fraud and knavery of Attorneys, or otherwiſe, to give the party injured good Damages, either from the Proſecutor or Attorney, as cauſe ſhall require, as well as not for Declaring.</hi>
+            </p>
+            <p n="6">6. <hi>That whereas the ſaid Act makes all ſuch</hi> ipſo facto <hi>to be Bankrupts, that pay not their Debts before the firſt of April; that your Highneſſe and your Hononorable Councel will declare, what Debts is thereby intended, whither all the Debts they owe
+<pb n="6" facs="tcp:118250:5"/>
+(which if ſo, all are Bankrupts; neither is all their Debts yet due, nor demanded) or onely ſuch for which they he charged in Execution, before the twentieth of October, which they conceive to the the true meaning of the Act, and not have the ſame arbi<g ref="char:EOLhyphen"/>trarily to the Judges, who are of different judgement therein, leſt the Priſoner be thereby enſn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ruined.</hi>
+            </p>
+            <p n="7">7. <hi>That for the better Execution and performance of the premiſes, an Oath may be given to the ſaid Judge that they ſhal execute the power to them given, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cording to the beſt of their skil and judgement, uprightly and truly, withou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct of per<g ref="char:EOLhyphen"/>ſons, partiallity, or any ſiniſter reſpect whatſoever, which is no more then all the Judges and Juſtices of England <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſworn to do; and that ſo much the rather, for that the ſaid Judges are accountable to none but a Parlam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, which is not to be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il Sep<g ref="char:EOLhyphen"/>tember, ſo that we may in the mean time be d ſtroyed: But by this means the Creditors are ſure to have the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> just Debts and Inter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt in a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time and our P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>titioners, Wives, Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldren, and poſterities preſerved from utter ruine.</hi>
+            </p>
+            <closer>
+               <signed>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="reply">
+            <p>This Petition w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſooner preſented to his High<g ref="char:EOLhyphen"/>neſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but was graciouſly anſwered with a moſt plenary reference of l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and of the Act complained againſt, to the Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cel, in the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> words.</p>
+            <p>HIs Highneſſe pleaſure is to refer the conſideration of this eti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the Councel, to re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Act for the Relief of Crea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors and poor P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>er, and change the the ſame, or any Clauſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſhall find cauſe.</p>
+            <closer>
+               <signed>LISLE LONG.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="7" facs="tcp:118250:5"/>
+            <head>An Ordinance for ſuſpending the proceedings of the Iudges named in the Act, intituled, <hi>An Act for the Relief of Creditors and poor Priſoners.</hi>
+            </head>
+            <p>WHereas upon peruſal and ſerious conſideration had of one Act of Parliament, intituled, <hi>An Act for the Relief of Creditors and poor Priſoners;</hi> many doubts and difficulties do appear, which muſt neceſſarily occaſion an Explanation of the ſaid Act for the better inabling the Iudges in the ſaid Act named and authorized for Sale of ſuch Eſtates as are to be ſold by the ſaid Act for ſatisfaction of Creditors which can<g ref="char:EOLhyphen"/>not in ſhort time be effected; and without ſuch explanation and further direction to be given to the ſeveral and reſpective Iudges, authorized in and by the ſaid Act ſeveral inconveniences and miſ<g ref="char:EOLhyphen"/>chiefs would grow, not onely to the ſaid Creditors and priſoners, but to divers other perſons, not meant or intended to be included within the ſaid Act, and will occaſion many troubles and ſuits in Law, and Equity; for the prevention whereof, due care is likewiſe to be had: and whereas many of the ſaid priſoners have offered really to indeavour the ſatisfaction of the ſaid Creditors, if ſome further time may be given for that purpoſe; Be it therefore or<g ref="char:EOLhyphen"/>dained by his Highneſs the Lord Protector, by and with the ad<g ref="char:EOLhyphen"/>vice and conſent of his Councel, That the ſaid ſeveral and reſ<g ref="char:EOLhyphen"/>pective Iudges mentioned in the ſaid Act, or any of them, ſhal not proceed to the ſale or diſpoſition of any the Eſtates Real or Per<g ref="char:EOLhyphen"/>ſonal, of any of the ſaid priſoners, or of any other perſon or perſons whatſoever mentioned or intended in or by the ſaid Act; nor ſhall otherwiſe intermeddle in the execution of the ſaid Act or of any the powers or authorities given by the ſame until the 20 of <hi>April.</hi> next. And be it further Ordained by the Authority aforeſaid, That all acts or things to be done by the ſaid ſeveral and reſpect<g ref="char:EOLhyphen"/>ive Iudges, or any of them by virtue color, or pretence of the ſaid Act from henceforth and before the ſaid 20<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h day of <hi>April.</hi> ſhall be utterly void null and of none effect; ſaving onely that it ſhall and may be lawfull for the ſaid ſeveral and reſpective Iudges that have vailed or let out any priſoners upon Sureties or otherwiſe, out of priſon (which priſoners are to appear again at a certain day
+<pb n="8" facs="tcp:118250:6"/>
+before the ſaid Iudges, and are not abſolutely diſcharged by any Order of the ſaid Iudges) to ſit onely for the remanding and re<g ref="char:EOLhyphen"/>committing of the ſaid Priſoners into their form<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Priſons and Goals, where they formerly were deteined in priſon, there to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>main in ſafe cuſtody and to continue and be in the ſame condition as formerly they were at the time of their Bailing or letting out as aforeſaid.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Fryday the 31 <hi>March</hi> 1654.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>ORdered by his Highneſſe the Lord Protector and his Council, that this Ordinance be fotthwith Printed and Publiſhed.</p>
+               <closer>
+                  <signed>HEN. SCOBEL Clerk of the Councel.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="discussion">
+            <p>Upon this reference the Honourable Councel took the ſaid Petition, as alſo the Act, intituled, <hi>An Act for the relief of Creditors and poor Priſoners,</hi> being the Act in the ſaid Petition complained againſt, into their ſerious and ſpeedy conſideration; and upon Fryday, being the laſt of <hi>March,</hi> it pleaſed God, who worketh all things in the hearts of the ſons of men, according to the Counſel and good pleaſure of his Wil; ſo to diſpoſe of things for the good of his poor afflicted and diſtreſſed ſervants, by the carefull ſolicitation of the ſaid Gentleman, that an Ordinance came out in Print, being the very laſt night that Priſoners could call any thing their own (ſo that men may ſtill ſee the Lord is faithfull, and appears in the Mount) by which it was provided and Ordained, That all the Judges in the ſaid Act mentioned, ſhould ſur<g ref="char:EOLhyphen"/>ceaſe to put the ſaid Act in execution, till the 20th of this Moneth, which time His Highneſs, and Honourable Councel took to conſider how to explain the ſaid Act ſo complained againſt, and how to quali<g ref="char:EOLhyphen"/>fie and regulate the ſame, that men might ſpeedily recover their juſt debts, and yet the Priſoners not utterly deſtroyed in their Reputations, Fortunes, and Families, which would have inevitably befallen them, had not the Lord Protector and his Councel taken their ſad condition into their ſerious, pious, and charitable conſideration: All which is here mentioned, that none concerned therein might be unmindfull nor unthankfull for ſo great a mercy, and ſo ſeaſonable a deliverance, nei<g ref="char:EOLhyphen"/>ther to Almighty God the Author, nor to ſuch men who were inſtru<g ref="char:EOLhyphen"/>mental for ſo great a Good. For the next day being Saturday, being the firſt of <hi>April,</hi> the Judges at Salters-Hall and elſewhere were to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gin their Tragedy, to the ranſack, if not utter ruine of the Eſtates of ſome
+<pb n="9" facs="tcp:118250:6"/>
+thouſands of the Nobility, Knights and Centry of this Nation, they having already appointed and conſtituted their own Sons, and other Agents, who had provided horſes for their journey to go into the ſeve<g ref="char:EOLhyphen"/>ral Counties of <hi>England</hi> and <hi>Wales,</hi> to view and ſurvey what ever E<g ref="char:EOLhyphen"/>ſtate they had real and perſonal, and to ſeize and ſecure the ſame, as belonging to Bankrupts, not onely what they had for the relief of their Families at home, and in the hands or cuſtody of any other; but alſo what they had in the very Priſons: All which things they were re<g ref="char:EOLhyphen"/>ſolved to ſell at their own rates; but what thoſe rates were, thanks be to God is not yet known, but too much cauſe there is to fear, it would have been no gre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rate, if we conſider what penniworths have been uſually ſold by Commiſſioners for Bankrupts, and eſpecially when ſome of the Commiſſioners were reſolved to turn Purchaſers: from theſe things Good Lord deliver us, and grant us that happineſs as by other mens harms to beware, and not to fall into their hands;
+<q>
+                  <l>Feliciter ſapit qui alieno periculo ſapit,</l>
+                  <l>Felix quem faciunt aliena pericula cautum.</l>
+                  <l>Vos ego nunc moneo felix quicunque delore,</l>
+                  <l>Alterius diſces poſſe carere tuo.</l>
+               </q>
+            </p>
+            <p>For by the wofull experience of ſuch who have to do with them at Salters-Hall, we find their Mercy was Cruelty to all ſuch Priſoners as had any fortunes, who were as ſure to be remanded back to Priſon, as ever they came out, let their cauſes be never ſo juſt or honeſt, their grand Maxime being, That all Priſoners that had any Eſtates muſt be left in priſon till <hi>April,</hi> whereas had they done many of them that Juſtice they might and ought to have done, they had long ſince been out of priſon, and had paid their debts, and ſo have been out of the dangers of being Bankrupts at <hi>April, Occidit hominem qui non ſuccurrit cum poteſt;</hi> and ſo might have preſerved their Fortunes and credits, in caſe that Act had ſtood in force. But it ſeems it would not anſwer their ends &amp; expe<g ref="char:EOLhyphen"/>ctations, which was to make all Priſoners that had any Eſtates, Bank<g ref="char:EOLhyphen"/>rupts, that ſo they might ſel their Eſtates, they knowing it is good fiſh<g ref="char:EOLhyphen"/>ing in ſuch troubled waters; neither did they at all fear the ſequ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be<g ref="char:EOLhyphen"/>ing not ſworn. Now if any would know the reaſon of ſuch their procee<g ref="char:EOLhyphen"/>dings, it is conceived, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was becauſe ſome of the moſt eminent of them were Goalers ſons, <hi>Orator improbus leges ſubveriit:</hi> And that ſuch
+<pb n="10" facs="tcp:118250:7"/>
+had too great an influence upon the reſt of the Judges; elſe it is thought they would before this regulate the abuſes and extortive fees of Pri<g ref="char:EOLhyphen"/>ſons; alſo they were accountable by the ſaid Act to none but a Parlia<g ref="char:EOLhyphen"/>ment; and withal, they were to have ſo much a pound out of all ſuch Priſoners Eſtates as they ſold, and on the contrary were to have no thing from others: By which the world may ſee what they aimed at, and how theſe men plaid their Games.</p>
+            <q>
+               <l>Lucrum ſine damno alterius fieri non potest,</l>
+               <l>Damnum apellandum est cum mala fama lucrum,</l>
+               <l>Ex damno alterius commoda nulla putas.</l>
+            </q>
+            <p>And being a Lyon may be known by the Paw, as well as by the whole body; let all ſuch as are or were like to be concerned, praiſe God for delivering them out of the Paw of the Lyon and the Bear, for they were very near deſtruction, he that is wiſe will remember theſe things and conſider the loving kindneſſe of the Lord, but a fool regar<g ref="char:EOLhyphen"/>deth them not; and in the next place, let all priſoners by way of thank<g ref="char:EOLhyphen"/>fullneſs uſe all means poſſible to give all juſt and fitting ſatisfaction to Creditors, for though they have eſcaped in all probability this danger of being Bancrupts (which rightly valued, is a great mercy that men would therefore praiſe the Lord for his goodneſſe) yet they muſt think a way will be found to force all men to pay their juſt debts, if they have wherewith, and not to make a Priſon a Sanctuary to pre<g ref="char:EOLhyphen"/>ſerve and protect men there from, which as on the one ſide is no wiſe intended, ſo on the other ſide all honeſt Creditors are deſired not to be over rigid and ſevere with their priſoners, but rather take lands for their monies from ſuch as ſhall offer the ſame, or other ſatisfactory ſe<g ref="char:EOLhyphen"/>curity unto them, either by abſolute Purchaſe, or at leaſt by way of Mortgage for ſome time, as by the aforeſaid Petition is deſired, not hol<g ref="char:EOLhyphen"/>ding their priſoners to advantages not impoſſibilities, by working up<g ref="char:EOLhyphen"/>on their neceſſities, but rather to ſhew Mercy and Compaſſion eve<g ref="char:EOLhyphen"/>ry one to his neighbour, that ſo there may be no oppreſſion nor lead<g ref="char:EOLhyphen"/>ing to captivity, nor juſt complaints in our ſtreets, elſe what do they do but grapple with heaven, to pull down more vengeance upon a ſin<g ref="char:EOLhyphen"/>full Nation, for the Lord hath a controverſie with us, becauſe there is no truth, nor mercy, nor knowledge of God amongſt us. <hi>Hoſea</hi> the 4 and the 1. Therefore as Chriſtians, take into your conſideration the
+<pb facs="tcp:118250:7"/>
+great loſſes men have ſuſtained in theſe times, and how hard &amp; difficult it is now to procure monies eſpecially to them who are cracked in their credits and fortunes, inſomuch that every one cannot nor will not deal with them, nor will they give them half the value of their lands for fear of incumbrances eſpecially while they are in priſon, which in the way before propoſed, may be avoided being ſold by the owners, and Truſtees and the Judges as by the aforeſaid Petititon is propoſed, which being once ſo ſold will be ſoon bought out of the purchaſers hands if he pleaſed by ſome in each County, who durſt not deal with the priſoner for the reaſons aforeſaid, as alſo for fear of angring ſome great men who had a deſire thereto, or had the ſame in Mortgage; now you that are willing to buy the priſoners lands from the Judges, we hoped may better venter on the ſame, when it ſhall be ſold by them with the conſent of the owner, and ſuch as have intereſt therein, though you ſhould pay 3 or 4 years purchaſe more for it, for it is more ho<g ref="char:EOLhyphen"/>nourable ſafe and honeſt before God and man, and if you will go o<g ref="char:EOLhyphen"/>therwiſe to work with any that ſhall really proffer this either by la<g ref="char:EOLhyphen"/>bouring to keep them ſtill in priſon, there, as your common but moſt unchriſtian like Phraſe is to make dice of their bones or ſhall improve your power and intereſt in the Judges nominated, or to be nominated, and their Agents for that end and purpoſe to ſell ſuch part of the priſon<g ref="char:EOLhyphen"/>ers eſtate to you: or others to your uſe as you pleaſe, or at ſuch rate as you think fit, know ye that you do hereby little leſſe, than covet <hi>Na<g ref="char:EOLhyphen"/>boths</hi> Vineyard and that if you could bring your deſigns to paſſe you would be no gainers thereby, nor long enjoy your purchaſe <hi>male part a male dilabuntur,</hi> for what ſhould you get if you could gain the whole world, and loſe your own ſouls; therefore truſt not in wrong and rob<g ref="char:EOLhyphen"/>bery, but rather ſtrive to do juſtly to love mercy, and to walk humbly with God, elſe ſee your reward in <hi>Matthew</hi> the 18 and 31, 32, 33, 34, 35, <hi>verſ.</hi> but beſides this know that we priſoners have hopes that the ſame God that inclined the heart of our noble Protector, and his wiſe Councel, ſo graciouſly to anſwer our Petition, and to grant us the firſt fruits thereof by this late ſo ſeaſonable an Ordinance will alſo give them wiſe, and underſtanding hearts to the end, and will not ſuffer them to bear the ſword in vain, but graciouſly aſſiſt and direct them to do thoſe things, that may moſt conduce to his glory and our good, and not deliver us and the remnant of our fortunes, as a prey to your teeth, but rather take the prey out of your teeth, and with holy <hi>Iob</hi>
+               <pb n="12" facs="tcp:118250:8"/>
+ſearch the cauſe they know not, and alſo make ſuch a candid and chri<g ref="char:EOLhyphen"/>ſtian like explanation of the ſaid Act, in caſe it do continue, as that you may have your juſt debts, and that we and our fortunes and families may be preſerved, from utter ruine by ſuch unreaſonable men which the Lord knows, and we know and your own Conſciences know ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of you are; for would you have accepted of your dues from many of us, though we are in for other mens debts, you might have had the ſame long ſince, and we might have been at home with our families, and might have been ſerviceable to the Commonwealth in our ſeveral ſtations, but your cruelty and oppreſſion in ſeeking our houſes over our heads, and our whole fortunes, makes many men reſolute and deſ<g ref="char:EOLhyphen"/>perate; Oppreſſion in the ſence of wiſe <hi>Solomon,</hi> being that which maketh wiſe men mad, and us ſo mad as to chuſe a priſon, rather then our fortunes and poſterities ſhould be ruined by ſuch men; therefore being you take upon you the name of Chriſtians, either act according<g ref="char:EOLhyphen"/>ly or abandon the ſame <hi>appara quod es aut eſto quod appares;</hi> for it had been better for you never to have known the way of truth then to ſin willfully againſt it, in the light of your own Conſciences, in deſtroy<g ref="char:EOLhyphen"/>ing your brother, for whom Chriſt died by your mercileſſe cruelty: Again, we hoped that you your ſelves, we mean the rich Citizens of <hi>London,</hi> will not be thought competent Judges in your own and friends Cauſes, if you be, we may ſay farewell to priſoners and their fortunes, for we have already ſeen what we muſt truſt to, and what unſavory ſalt is ſold in Salters Hall, by ſome whoſe Conſciences are ſo nice and tender, that they will not be ſatisfied with the Oaths of 5 or 6 witneſſes, though they concur to prove a generall, known, and granted truth, which was never queſtioned nor gain ſaid, ſaving by themſelves, eſpecially when the cauſe concerneth lome of your rich Ci<g ref="char:EOLhyphen"/>tizens; therefore we hope that whoſoever ſhall be, to have them bounded with an Oath at leaſt, and lome other boundaries and ex<g ref="char:EOLhyphen"/>planations, which may ſerve for a bridle, or rather, for ſo it had need, be a hedge of Thorns to keep them in, in caſe they act no better than you did; as by a taſte of your ſalt, which hath exceedingly loſt his ſa<g ref="char:EOLhyphen"/>vour, as the world may ſee, may appear. And therefore it may be you may take your eaſe as well as your Maſters did before you; or at leaſt in caſe you be continued, and ſhall through Ignorance, or wilfulneſs, or both, deſtroy any man in his Fortune or Liberty, as they were like to do to many at this time, had not that divine hand which diſpoſeth all
+<pb n="13" facs="tcp:118250:8"/>
+things prevented you; that they may be made ſubject to Law by an Action of the Caſe as well as others: Elſe they may do what they pleaſe, and we ſee it pleaſes them to do what they will, even very ſtrange things; <hi>Stet pro ratione voluntas;</hi> ſo that their Wills have been our Law, when they could give no other reaſon for it, having act<g ref="char:EOLhyphen"/>ed in ſome mens caſes quite contrary to what they did in others.</p>
+            <p>So that we are conſtrained to publiſh theſe our juſt deſires, to the end that if any man have any thing to ſay againſt the Juſtneſs and E<g ref="char:EOLhyphen"/>quity thereof, he may declare himſelf, and ſhew us our miſtake; if not, let the mouth of Iniquity be ſtopped, and let theſe things be re<g ref="char:EOLhyphen"/>formed, to Gods glory, ours and the Nations good; for in our ſence, every man is bound to do by us, that are willing to pay their juſt debts, as themſelves would be done by, were they in our conditions; <hi>Quod tibi fieri non vis alteri ne feceris:</hi> And as for others, we have no more to ſay, but <hi>Qui vult decepi decipiatur:</hi> For no mans Moun<g ref="char:EOLhyphen"/>tain is ſo ſtrong, but by one means or other it may be ſhaken, and he brought to it before he be aware.</p>
+            <q>
+               <l>Tu quoque fac timeas &amp; quae tibi leta vidantur,</l>
+               <l>Dum loqueris fieri triſtia poſſe puta,</l>
+               <l>Ab alio expectes alteri quod feceris,</l>
+               <l>Ludit in humanis divina potentia rebus,</l>
+               <l>Et certum preſens vix habet hora finem,</l>
+            </q>
+            <p>And were he ſure to be exempt from the ſame, the Obligation is the greater, as may appear by the 18th of <hi>Matthew,</hi> before quoted; therefore we wiſh we might all learn this Leſſon, Not to oppreſs one and other, but eſpecially not the afflicted; for our God will puniſh all thoſe that oppreſs them, and will be their refuge; and aſſuredly, he that doth it doth but conſult ſhame to his own houſe by deſtroying many people, and hath ſinned againſt his own ſoul, ſee <hi>Habakkuk</hi> 2.10, 11. For <hi>he that oppreſſeth the poor to encreaſe his riches ſhal come to want Prov.</hi> 22.16. So leaving this to their Chriſtian conſideration, wiſhing the Lord to give them underſtanding in all things, we reſt nameleſs, not becauſe we dare not own what we have ſaid, but becauſe in your eſteem we are dead, and not worthy to be named amongſt the living.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
